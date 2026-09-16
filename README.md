@@ -1,7 +1,7 @@
 Project Overview:
 This is a personal project building a pan-tilt laser tracking system. An ESP32-CAM captures visual data and calculates the (X, Y) coordinates of a target's movement, then sends that position to an Elegoo Uno, which translates it into servo commands. The servos move a pan-tilt bracket carrying the laser to track the target in real time.
 
-![CAD](Laser_CAD)
+![CAD](Laser_CAD.webp)
 
 My Role:
 I'm designing and building this system on my own, from the power and communication architecture down to the pan-tilt mechanical assembly.
